@@ -1,0 +1,36 @@
+#title{
+    text-align: center;
+    font-family: "Tinos", serif;
+    font-size: 80px;
+}
+
+table{
+    position: absolute;
+    right: 5%;
+
+    width: 90%;
+    height: 70%;
+
+    border-collapse: collapse;
+}
+
+td{
+    width: 12.8571428571%;
+    font-family: "Secular One", sans-serif;
+    background-color: #5681a3;
+    font-size: 40px;
+    font-style: normal;
+    border: solid;      
+}
+
+#next{
+    position: absolute;
+    left: 0%;
+    top:50%;
+}
+
+#corner-photo{
+    position: absolute;
+    top: 134px;
+    right: 20px;
+}
