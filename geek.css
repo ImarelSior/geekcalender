@@ -37,9 +37,9 @@ td{
 
 .conv{
     font-family: "Alef", sans-serif;
-    color: #000;
 }
 
 .read_more{
     position: relative;
+    font-size: 20px;
 }
