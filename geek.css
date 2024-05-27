@@ -30,6 +30,12 @@ td{
     top:50%;
 }
 
+#previous{
+    position: absolute;
+    right: 0%;
+    top: 50%;
+}
+
 #corner-photo{
     position: absolute;
     top: 134px;
