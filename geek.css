@@ -34,3 +34,12 @@ td{
     top: 134px;
     right: 20px;
 }
+
+.conv{
+    font-family: "Alef", sans-serif;
+    color: #000;
+}
+
+.read_more{
+    position: relative;
+}
