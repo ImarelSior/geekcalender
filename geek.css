@@ -16,6 +16,7 @@ table{
 
 td{
     width: 12.8571428571%;
+    height: 11.6666666667%;
     font-family: "Secular One", sans-serif;
     background-color: #5681a3;
     font-size: 40px;
@@ -36,10 +37,17 @@ td{
 }
 
 .conv{
+
     font-family: "Alef", sans-serif;
 }
 
 .read_more{
     position: relative;
+    bottom: 10px;
     font-size: 20px;
+}
+
+.conv_img{
+    position: relative;
+    bottom: 30px;
 }
