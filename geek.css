@@ -5,9 +5,9 @@
 }
 
 table{
+    z-index: 1;
     position: absolute;
     right: 5%;
-
     width: 90%;
     height: 70%;
 
@@ -37,6 +37,7 @@ td{
 }
 
 #corner-photo{
+    z-index: 2;
     position: absolute;
     top: 134px;
     right: 20px;
